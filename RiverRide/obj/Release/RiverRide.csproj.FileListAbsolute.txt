@@ -1,0 +1,19 @@
+C:\Users\user\source\repos\RiverRide\RiverRide\bin\Release\RiverRide.exe.config
+C:\Users\user\source\repos\RiverRide\RiverRide\bin\Release\RiverRide.exe
+C:\Users\user\source\repos\RiverRide\RiverRide\bin\Release\RiverRide.pdb
+C:\Users\user\source\repos\RiverRide\RiverRide\obj\Release\RiverRide.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RiverRide\RiverRide\obj\Release\RiverRide.Form1.resources
+C:\Users\user\source\repos\RiverRide\RiverRide\obj\Release\RiverRide.Properties.Resources.resources
+C:\Users\user\source\repos\RiverRide\RiverRide\obj\Release\RiverRide.csproj.GenerateResource.cache
+C:\Users\user\source\repos\RiverRide\RiverRide\obj\Release\RiverRide.exe
+C:\Users\user\source\repos\RiverRide\RiverRide\obj\Release\RiverRide.pdb
+C:\Users\user\source\repos\RiverRide\RiverRide\obj\Release\RiverRide.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projekt - Beatka\Działające minigry\RiverRide\RiverRide\bin\Release\RiverRide.exe.config
+C:\Users\user\Desktop\Projekt - Beatka\Działające minigry\RiverRide\RiverRide\bin\Release\RiverRide.exe
+C:\Users\user\Desktop\Projekt - Beatka\Działające minigry\RiverRide\RiverRide\bin\Release\RiverRide.pdb
+C:\Users\user\Desktop\Projekt - Beatka\Działające minigry\RiverRide\RiverRide\obj\Release\RiverRide.Form1.resources
+C:\Users\user\Desktop\Projekt - Beatka\Działające minigry\RiverRide\RiverRide\obj\Release\RiverRide.Properties.Resources.resources
+C:\Users\user\Desktop\Projekt - Beatka\Działające minigry\RiverRide\RiverRide\obj\Release\RiverRide.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Projekt - Beatka\Działające minigry\RiverRide\RiverRide\obj\Release\RiverRide.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projekt - Beatka\Działające minigry\RiverRide\RiverRide\obj\Release\RiverRide.exe
+C:\Users\user\Desktop\Projekt - Beatka\Działające minigry\RiverRide\RiverRide\obj\Release\RiverRide.pdb
